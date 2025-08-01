@@ -1,0 +1,25 @@
+<mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/28.0.6 Chrome/138.0.7204.100 Electron/37.2.3 Safari/537.36" version="28.0.6">
+  <diagram name="Page-1" id="ZP78ros7mijtw24XfWM-">
+    <mxGraphModel dx="946" dy="722" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="5m7aYbd0DxD4bF5EcOJm-2" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ShiftSupervisor&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__init__(name, number,slary,bonus)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__salary()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__bonus()&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;set_salary(float)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;get_salary()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;set_bonus(float)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;get_bonus()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="460" y="320" width="200" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5m7aYbd0DxD4bF5EcOJm-3" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;ProductionWorker&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__init__(name,number,shift,pay)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__shift()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__pay()&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;set_shift(int)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;get_shift()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;set_pay(float)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;get_pay()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="200" y="320" width="180" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5m7aYbd0DxD4bF5EcOJm-4" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;Employee&lt;/b&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__init__(name,number)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__name&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;__number&lt;/p&gt;&lt;hr size=&quot;1&quot; style=&quot;border-style:solid;&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;set_name(str)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;get_name()&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;set_number(int)&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;get_number()&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;html=1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="345" y="40" width="160" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="5m7aYbd0DxD4bF5EcOJm-5" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.annotation_2;align=left;labelPosition=right;pointerEvents=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="400" y="160" width="50" height="270" as="geometry" />
+        </mxCell>
+        <mxCell id="5m7aYbd0DxD4bF5EcOJm-6" value="" style="html=1;shadow=0;dashed=0;align=center;verticalAlign=middle;shape=mxgraph.arrows2.arrow;dy=0.6;dx=40;direction=north;notch=4;" vertex="1" parent="1">
+          <mxGeometry x="420" y="190" width="10" height="100" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
