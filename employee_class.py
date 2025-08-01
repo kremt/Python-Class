@@ -1,9 +1,9 @@
 #Module file for employee class
 class Employee:
-    self.__init__(self)
-    #Get input for attributes name and number.
-    self.__name = str(input("Please enter the employee's name:"))
-    self.__number = int(input("Please enter the employee's number:"))
+    def __init__(self):
+        #Get name and number from user for attributes.
+        self.__name = str(input("Please enter the employee's name:"))
+        self.__number = int(input("Please enter the employee's number:"))
     
     #Setters and Getters for attributes.
     def set_name(name):
@@ -17,4 +17,3 @@ class Employee:
 
     def get_number():
         return self.__number
-        
