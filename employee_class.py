@@ -6,14 +6,14 @@ class Employee:
         self.__number = int(input("Please enter the employee's number:"))
     
     #Setters and Getters for attributes.
-    def set_name(name):
+    def set_name(self, name):
         self.__name = name
 
-    def get_name():
+    def get_name(self):
         return self.__name
 
-    def set_number(number):
+    def set_number(self, number):
         self.__number = int(number)
 
-    def get_number():
+    def get_number(self):
         return self.__number
